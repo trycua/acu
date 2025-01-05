@@ -7,7 +7,9 @@
 </h1>
 </div>
 
-A curated list of resources for AI agents that can control computers and mobile devices, including research papers, projects, and tools.
+> An AI Agent for Computer Use is an autonomous program that can reason about tasks, plan sequences of actions, and execute those actions within the domain of a computer or mobile device in the form of clicks, keystrokes, other computer events, command-line operations and internal/external API calls. These agents combine perception, decision-making, and control capabilities to interact with digital interfaces and accomplish user-specified goals independently.
+
+A curated list of resources about AI agents for Computer Use, including research papers, projects, frameworks, and tools.
 
 ## Table of Contents
 
