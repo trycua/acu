@@ -21,10 +21,13 @@ A curated list of resources for AI agents that can control computers and mobile 
     - [Dataset](#dataset)
     - [Benchmark](#benchmark)
     - [Safety](#safety)
-  - [Open Source Projects](#open-source-projects)
-    - [Agents](#agents)
-    - [Tools](#tools)
-    - [Automation](#automation)
+  - [Projects](#projects)
+    - [Open Source Projects](#open-source-projects)
+      - [Agents](#agents)
+      - [Tools](#tools)
+      - [Automation](#automation)
+    - [Commercial Projects](#commercial-projects)
+      - [Agents](#agents)
   - [Contributing](#contributing)
 
 ## Articles
@@ -48,6 +51,10 @@ A curated list of resources for AI agents that can control computers and mobile 
 
 ### Agents
 
+- [Large Action Models: From Inception to Implementation](https://arxiv.org/abs/2412.10047) (Dec. 2024)
+  - Comprehensive framework for developing LAMs that can perform real-world actions beyond language generation
+  - Details key stages including data collection, model training, environment integration, grounding and evaluation
+
 - [Guiding VLM Agents with Process Rewards at Inference Time for GUI Navigation](https://openreview.net/forum?id=jR6YMxVG9i) (Dec. 2024)
   - Novel reward-guided navigation approach
 
@@ -70,7 +77,7 @@ A curated list of resources for AI agents that can control computers and mobile 
 - [Digi-Q: Transforming VLMs to Device-Control Agents via Value-Based Offline RL](https://openreview.net/forum?id=CjfQssZtAb) (Dec. 2024)
   - Novel value-based offline RL approach for training VLM device-control agents
 
-- [Magentic-One](https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MagenticOne.pdf) (Nov, 2024)
+- [Magentic-One](https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MagenticOne.pdf) (Nov. 2024)
   - Multi-agent system with orchestrator-led coordination
   - Strong performance on GAIA, WebArena, and AssistantBench
 
@@ -86,7 +93,7 @@ A curated list of resources for AI agents that can control computers and mobile 
   - Novel reasoning and learning framework
   - [Website](https://www.multion.ai/blog/introducing-agent-q-research-breakthrough-for-the-next-generation-of-ai-agents-with-planning-and-self-healing-capabilities)
 
-- [OpenWebAgent: An Open Toolkit to Enable Web Agents on Large Language Models](https://aclanthology.org/2024.acl-demos.8/) (2024)
+- [OpenWebAgent: An Open Toolkit to Enable Web Agents on Large Language Models](https://aclanthology.org/2024.acl-demos.8/) (Aug. 2024)
   - Open platform for web-based agent deployment
   - [Code](https://github.com/boxworld18/OpenWebAgent)
 
@@ -188,6 +195,11 @@ A curated list of resources for AI agents that can control computers and mobile 
 
 ### Grounding
 
+- [OmniParser for Pure Vision Based GUI Agent](https://arxiv.org/pdf/2408.00203) (Aug. 2024)
+  - Novel vision-based screen parsing method for UI screenshots
+  - Combines finetuned interactable icon detection and functional description models
+  - [Code](https://github.com/microsoft/OmniParser)
+
 - [Ferret-UI: Grounded Mobile UI Understanding with Multimodal LLMs](https://arxiv.org/abs/2404.05719) (Apr. 2024)
   - Mobile UI understanding
   - [Code](https://github.com/apple/ml-ferret)
@@ -231,9 +243,33 @@ A curated list of resources for AI agents that can control computers and mobile 
 - [Synatra: Turning Indirect Knowledge into Direct Demonstrations for Digital Agents at Scale](https://arxiv.org/abs/2409.15637) (Sep. 2024)
   - Scalable demonstration generation
 
+- [Multi-Turn Mind2Web: On the Multi-turn Instruction Following](https://arxiv.org/pdf/2402.15057) (Feb. 2024)
+  - Multi-turn instruction dataset for web agents
+  - [Code](https://github.com/magicgh/self-map)
+
+- [CToolEval: A Chinese Benchmark for LLM-Powered Agent Evaluation](https://aclanthology.org/2024.findings-acl.928/) (Aug. 2024)
+  - Chinese benchmark for agent evaluation
+  - [Code](https://github.com/tjunlp-lab/CToolEval)
+
+- [AssistantBench: Can Web Agents Solve Realistic and Time-Consuming Tasks](https://arxiv.org/abs/2407.15711) (Jul. 2024)
+  - Benchmark for realistic and time-consuming web tasks
+  - [Code](https://assistantbench.github.io)
+
 - [Mind2Web: Towards a Generalist Agent for the Web](https://arxiv.org/abs/2306.06070) (Jun. 2023)
   - Large-scale web interaction dataset
   - [Code](https://github.com/OSU-NLP-Group/Mind2Web)
+
+- [Android in the Wild: A Large-Scale Dataset for Android Device Control](https://arxiv.org/abs/2307.10088) (Jul. 2023)
+  - Large-scale dataset for Android interaction
+  - Real-world device control scenarios
+
+- [WebShop: Towards Scalable Real-World Web Interaction](https://arxiv.org/abs/2207.01206) (Jul. 2022)
+  - Dataset for grounded language agents in web interaction
+  - [Code](https://github.com/princeton-nlp/WebShop)
+
+- [Rico: A Mobile App Dataset for Building Data-Driven Design Applications](https://dl.acm.org/doi/10.1145/3126594.3126651) (Oct. 2017)
+  - Mobile app UI dataset
+  - Design-focused data collection
 
 ### Benchmark
 
@@ -271,32 +307,6 @@ A curated list of resources for AI agents that can control computers and mobile 
   - Mobile-focused evaluation framework
   - [Code](https://github.com/X-LANCE/Mobile-Env)
 
-### Datasets
-
-- [Multi-Turn Mind2Web: On the Multi-turn Instruction Following](https://arxiv.org/pdf/2402.15057) (Feb. 2024)
-  - Multi-turn instruction dataset for web agents
-  - [Code](https://github.com/magicgh/self-map)
-
-- [AssistantBench: Can Web Agents Solve Realistic and Time-Consuming Tasks](https://arxiv.org/abs/2407.15711) (Jul. 2024)
-  - Benchmark for realistic and time-consuming web tasks
-  - [Code](https://assistantbench.github.io)
-
-- [CToolEval: A Chinese Benchmark for LLM-Powered Agent Evaluation](https://aclanthology.org/2024.findings-acl.928/) (2024)
-  - Chinese benchmark for agent evaluation
-  - [Code](https://github.com/tjunlp-lab/CToolEval)
-
-- [Android in the Wild: A Large-Scale Dataset for Android Device Control](https://arxiv.org/abs/2307.10088) (Jul. 2023)
-  - Large-scale dataset for Android interaction
-  - Real-world device control scenarios
-
-- [WebShop: Towards Scalable Real-World Web Interaction](https://arxiv.org/abs/2207.01206) (Jul. 2022)
-  - Dataset for grounded language agents in web interaction
-  - [Code](https://github.com/princeton-nlp/WebShop)
-
-- [Rico: A Mobile App Dataset for Building Data-Driven Design Applications](https://dl.acm.org/doi/10.1145/3126594.3126651) (2017)
-  - Mobile app UI dataset
-  - Design-focused data collection
-
 ### Safety
 
 - [Attacking Vision-Language Computer Agents via Pop-ups](https://arxiv.org/abs/2411.02391) (Nov. 2024)
@@ -309,9 +319,15 @@ A curated list of resources for AI agents that can control computers and mobile 
 - [GuardAgent: Safeguard LLM Agent by a Guard Agent via Knowledge-Enabled Reasoning](https://arxiv.org/abs/2406.09187) (Jun. 2024)
   - Safety mechanisms for agents
 
-## Open Source Projects
+## Projects
 
-### Agents
+### Open Source
+
+#### Frameworks & Models
+
+- [AutoGen](https://github.com/microsoft/autogen)
+  - Framework for building AI agent systems.
+  - It simplifies the creation of event-driven, distributed, scalable, and resilient agentic applications.
 
 - [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)  
   - Autonomous GPT-4 agent  
@@ -348,10 +364,6 @@ A curated list of resources for AI agents that can control computers and mobile 
   - MacOS-specific tools  
   - Anthropic integration  
 
-- [Multion](https://www.multion.ai)  
-  - Web automation platform  
-  - Cloud-based solution  
-
 - [NatBot](https://github.com/nat/natbot)  
   - Browser automation  
   - GPT-4 Vision integration  
@@ -384,21 +396,38 @@ A curated list of resources for AI agents that can control computers and mobile 
   - Web page annotation tool  
   - Vision-language model support  
 
-### Tools
+#### Environment & Sandbox
+
+- [dockur/windows](https://github.com/dockur/windows)
+  - Windows inside a Docker container
 
 - [E2B Desktop Sandbox](https://github.com/e2b-dev/desktop)
   - Secure desktop environment
   - Agent testing platform
 
-### Automation
+- [qemus/qemu-docker](https://github.com/qemus/qemu-docker)
+  - Docker container for running virtual machines using QEMU
+
+#### Automation
+
+- [nut.js](https://github.com/nut-tree/nut.js)
+  - Native UI automation
+  - JavaScript/TypeScript implementation
 
 - [PyAutoGUI](https://github.com/asweigart/pyautogui)
   - Cross-platform GUI automation
   - Python-based control library
 
-- [nut.js](https://github.com/nut-tree/nut.js)
-  - Native UI automation
-  - JavaScript/TypeScript implementation
+### Commercial
+
+#### Frameworks & Models
+
+- [Anthropic Claude Computer Use](https://www.anthropic.com/news/3-5-models-and-computer-use)
+  - Commercial computer control capability
+  - Integrated with Claude 3.5 models
+
+- [Multion](https://www.multion.ai)
+  - AI agents that can fully complete tasks in any web environment.
 
 ## Contributing
 
