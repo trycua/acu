@@ -13,23 +13,23 @@ A curated list of resources about AI agents for Computer Use, including research
 
 ## Table of Contents
 
-- [Awesome Agents for Computer Use](#awesome-agents-for-computer-use)
+- [ACU - Awesome Agents for Computer Use](#acu---awesome-agents-for-computer-use)
   - [Table of Contents](#table-of-contents)
   - [Articles](#articles)
   - [Papers](#papers)
     - [Surveys](#surveys)
-    - [Agents](#agents)
-    - [Grounding](#grounding)
+    - [Frameworks & Models](#frameworks--models)
+    - [UI Grounding](#ui-grounding)
     - [Dataset](#dataset)
     - [Benchmark](#benchmark)
     - [Safety](#safety)
   - [Projects](#projects)
-    - [Open Source Projects](#open-source-projects)
-      - [Agents](#agents)
-      - [Tools](#tools)
+    - [Open Source](#open-source)
+      - [Frameworks & Models](#frameworks--models-1)
+      - [Environment & Sandbox](#environment--sandbox)
       - [Automation](#automation)
-    - [Commercial Projects](#commercial-projects)
-      - [Agents](#agents)
+    - [Commercial](#commercial)
+      - [Frameworks & Models](#frameworks--models-2)
   - [Contributing](#contributing)
 
 ## Articles
@@ -51,7 +51,7 @@ A curated list of resources about AI agents for Computer Use, including research
 - [GUI Agents with Foundation Models: A Comprehensive Survey](https://arxiv.org/abs/2411.04890) (Nov. 2024)
   - Comprehensive overview of foundation model-based GUI agents
 
-### Agents
+### Frameworks & Models
 
 - [Large Action Models: From Inception to Implementation](https://arxiv.org/abs/2412.10047) (Dec. 2024)
   - Comprehensive framework for developing LAMs that can perform real-world actions beyond language generation
@@ -195,7 +195,7 @@ A curated list of resources about AI agents for Computer Use, including research
   - Reinforcement learning platform for Android interaction
   - [Code](https://github.com/google-deepmind/android_env)
 
-### Grounding
+### UI Grounding
 
 - [OmniParser for Pure Vision Based GUI Agent](https://arxiv.org/pdf/2408.00203) (Aug. 2024)
   - Novel vision-based screen parsing method for UI screenshots
