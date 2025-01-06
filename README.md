@@ -3,11 +3,14 @@
   <div class="image-wrapper" style="display: inline-block;">
     <img src="img/logo.png" alt="logo" height="100" style="display: block; margin: auto;">
   </div>
+  
+  [![X Community](https://img.shields.io/badge/Community-black?logo=x&style=flat-square)](https://x.com/i/communities/1874549355442802764)
+  
   ACU - Awesome Agents for Computer Use
 </h1>
 </div>
 
-> An AI Agent for Computer Use is an autonomous program that can reason about tasks, plan sequences of actions, and execute those actions within the domain of a computer or mobile device in the form of clicks, keystrokes, other computer events, command-line operations and internal/external API calls. These agents combine perception, decision-making, and control capabilities to interact with digital interfaces and accomplish user-specified goals independently.
+> An AI Agent for Computer Use is an autonomous program that can **reason** about tasks, **plan** sequences of actions, and **act** within the domain of a computer or mobile device in the form of clicks, keystrokes, other computer events, command-line operations and internal/external API calls. These agents combine perception, decision-making, and control capabilities to interact with digital interfaces and accomplish user-specified goals independently.
 
 A curated list of resources about AI agents for Computer Use, including research papers, projects, frameworks, and tools.
 
