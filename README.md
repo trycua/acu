@@ -393,6 +393,10 @@ A curated list of resources about AI agents for Computer Use, including research
   - Computer control framework  
   - Vision-based automation  
 
+- [Skyvern](https://github.com/skyvern-ai/skyvern)  
+  - AI web agent framework
+  - Automate browser-based workflows with LLMs 
+
 - [Surfkit](https://github.com/agentsea/surfkit)  
   - Device operation toolkit  
   - Extensible agent framework  
