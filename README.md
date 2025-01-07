@@ -395,7 +395,7 @@ A curated list of resources about AI agents for Computer Use, including research
 
 - [Skyvern](https://github.com/skyvern-ai/skyvern)  
   - AI web agent framework
-  - Automate browser-based workflows with LLMs 
+  - Automate browser-based workflows with LLMs using vision and HTML extraction
 
 - [Surfkit](https://github.com/agentsea/surfkit)  
   - Device operation toolkit  
