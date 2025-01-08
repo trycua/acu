@@ -503,8 +503,6 @@ We welcome and encourage contributions from the community! Here's how you can he
 - **Improve organization**: Suggest better ways to structure the information
 - **Update content**: Keep entries up-to-date with latest developments
 
-<br/>
-
 To contribute:
 1. Fork the repository
 2. Create a new branch for your changes
@@ -512,5 +510,7 @@ To contribute:
 4. Post in the [X Community](https://x.com/i/communities/1874549355442802764) to let everyone know about the new resource
 
 For an example of how to format your contribution, please refer to [this PR](https://github.com/francedot/acu/pull/1).
+
+<br/>
 
 *Thank you for helping spread knowledge about AI agents for computer use!*
