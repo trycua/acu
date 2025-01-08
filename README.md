@@ -496,4 +496,21 @@ A curated list of resources about AI agents for Computer Use, including research
 
 ## Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+We welcome and encourage contributions from the community! Here's how you can help:
+
+- **Add new resources**: Found a relevant paper, project, or tool? Submit a PR to add it
+- **Fix errors**: Help us correct any mistakes in existing entries
+- **Improve organization**: Suggest better ways to structure the information
+- **Update content**: Keep entries up-to-date with latest developments
+
+<br/>
+
+To contribute:
+1. Fork the repository
+2. Create a new branch for your changes
+3. Submit a pull request with a clear description of your additions/changes
+4. Post in the [X Community](https://x.com/i/communities/1874549355442802764) to let everyone know about the new resource
+
+For an example of how to format your contribution, please refer to [this PR](https://github.com/francedot/acu/pull/1).
+
+*Thank you for helping spread knowledge about AI agents for computer use!*
