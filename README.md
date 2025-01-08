@@ -447,6 +447,20 @@ A curated list of resources about AI agents for Computer Use, including research
 <br/>
 </details>
 
+<details open>
+<summary><b>UI Grounding</b></summary>
+
+### UI Grounding
+
+- [AskUI/PTA-1](https://huggingface.co/AskUI/PTA-1)
+  - A small vision language model for computer & phone automation, based on Florence-2.
+  - With only 270M parameters it outperforms much larger models in GUI text and element localization. 
+
+- [Microsoft/OmniParser](https://huggingface.co/microsoft/OmniParser)
+  - A general screen parsing tool, which interprets/converts UI screenshot to structured format, to improve existing LLM based UI agent
+
+<br/>
+</details>
 
 <details open>
 <summary><b>Environment & Sandbox</b></summary>
@@ -494,6 +508,10 @@ A curated list of resources about AI agents for Computer Use, including research
 
 - [Multion](https://www.multion.ai)
   - AI agents that can fully complete tasks in any web environment.
+
+- [Runner H](https://www.hcompany.ai/)
+  - Advanced AI agent for real-world applications.
+  - Scores 67% on WebVoyager
 
 <br/>
 </details>
