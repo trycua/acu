@@ -42,6 +42,9 @@ A curated list of resources about AI agents for Computer Use, including research
 
 ## Papers
 
+<details open>
+<summary><b>Surveys</b></summary>
+
 ### Surveys
 
 - [GUI Agents: A Survey](https://arxiv.org/abs/2412.13501) (Dec. 2024)
@@ -53,6 +56,12 @@ A curated list of resources about AI agents for Computer Use, including research
 
 - [GUI Agents with Foundation Models: A Comprehensive Survey](https://arxiv.org/abs/2411.04890) (Nov. 2024)
   - Comprehensive overview of foundation model-based GUI agents
+  
+<br/>
+</details>
+
+<details open>
+<summary><b>Frameworks & Models</b></summary>
 
 ### Frameworks & Models
 
@@ -198,6 +207,12 @@ A curated list of resources about AI agents for Computer Use, including research
   - Reinforcement learning platform for Android interaction
   - [Code](https://github.com/google-deepmind/android_env)
 
+<br/>
+</details>
+
+<details open>
+<summary><b>UI Grounding</b></summary>
+
 ### UI Grounding
 
 - [OmniParser for Pure Vision Based GUI Agent](https://arxiv.org/pdf/2408.00203) (Aug. 2024)
@@ -231,6 +246,12 @@ A curated list of resources about AI agents for Computer Use, including research
 
 - [Grounding Multimodal Large Language Model in GUI World](https://openreview.net/forum?id=M9iky9Ruhx) (Dec. 2024)
   - Novel GUI grounding framework with automated data collection engine and lightweight grounding module
+
+<br/>
+</details>
+
+<details open>
+<summary><b>Dataset</b></summary>
 
 ### Dataset
 
@@ -276,6 +297,12 @@ A curated list of resources about AI agents for Computer Use, including research
   - Mobile app UI dataset
   - Design-focused data collection
 
+<br/>
+</details>
+
+<details open>
+<summary><b>Benchmark</b></summary>
+
 ### Benchmark
 
 - [A3: Android Agent Arena for Mobile GUI Agents](https://arxiv.org/abs/2501.01149) (Jan. 2025)
@@ -312,6 +339,12 @@ A curated list of resources about AI agents for Computer Use, including research
   - Mobile-focused evaluation framework
   - [Code](https://github.com/X-LANCE/Mobile-Env)
 
+<br/>
+</details>
+
+<details open>
+<summary><b>Safety</b></summary>
+
 ### Safety
 
 - [Attacking Vision-Language Computer Agents via Pop-ups](https://arxiv.org/abs/2411.02391) (Nov. 2024)
@@ -324,11 +357,17 @@ A curated list of resources about AI agents for Computer Use, including research
 - [GuardAgent: Safeguard LLM Agent by a Guard Agent via Knowledge-Enabled Reasoning](https://arxiv.org/abs/2406.09187) (Jun. 2024)
   - Safety mechanisms for agents
 
+<br/>
+</details>
+
 ## Projects
 
 ### Open Source
 
-#### Frameworks & Models
+<details open>
+<summary><b>Frameworks & Models</b></summary>
+
+### Frameworks & Models
 
 - [AutoGen](https://github.com/microsoft/autogen)
   - Framework for building AI agent systems.
@@ -401,7 +440,14 @@ A curated list of resources about AI agents for Computer Use, including research
   - Web page annotation tool  
   - Vision-language model support  
 
-#### Environment & Sandbox
+<br/>
+</details>
+
+
+<details open>
+<summary><b>Environment & Sandbox</b></summary>
+
+### Environment & Sandbox
 
 - [dockur/windows](https://github.com/dockur/windows)
   - Windows inside a Docker container
@@ -413,8 +459,13 @@ A curated list of resources about AI agents for Computer Use, including research
 - [qemus/qemu-docker](https://github.com/qemus/qemu-docker)
   - Docker container for running virtual machines using QEMU
 
-#### Automation
+<br/>
+</details>
 
+<details open>
+<summary><b>Automation</b></summary>
+
+### Automation
 - [nut.js](https://github.com/nut-tree/nut.js)
   - Native UI automation
   - JavaScript/TypeScript implementation
@@ -423,9 +474,15 @@ A curated list of resources about AI agents for Computer Use, including research
   - Cross-platform GUI automation
   - Python-based control library
 
+<br/>
+</details>
+
 ### Commercial
 
-#### Frameworks & Models
+<details open>
+<summary><b>Frameworks & Models</b></summary>
+
+### Frameworks & Models
 
 - [Anthropic Claude Computer Use](https://www.anthropic.com/news/3-5-models-and-computer-use)
   - Commercial computer control capability
@@ -433,6 +490,9 @@ A curated list of resources about AI agents for Computer Use, including research
 
 - [Multion](https://www.multion.ai)
   - AI agents that can fully complete tasks in any web environment.
+
+<br/>
+</details>
 
 ## Contributing
 
