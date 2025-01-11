@@ -398,7 +398,11 @@ A curated list of resources about AI agents for Computer Use, including research
 
 - [Grunty](https://github.com/suitedaces/computer-agent)  
   - Computer control agent  
-  - Task automation focus  
+  - Task automation focus
+
+- [Inferable](https://github.com/inferablehq/inferable)  
+  - Distributed agent builder platform  
+  - Build tools with existing code  
 
 - [LaVague](https://github.com/lavague-ai/LaVague)  
   - AI web agent framework  
