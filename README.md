@@ -432,7 +432,7 @@ A curated list of resources about AI agents for Computer Use, including research
   - Open-source implementation of computer control capabilities  
   - Secure sandboxed environment for AI agents  
 
-- [Self-Operating Computer](https://github.com/OthersideAI/self-operating-computer)  
+- [Self-Operating Computer](https://github.com/OthersideAI/self-operating-computer) (Nov. 2023)
   - Computer control framework  
   - Vision-based automation  
 
