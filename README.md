@@ -432,9 +432,10 @@ A curated list of resources about AI agents for Computer Use, including research
   - Open-source implementation of computer control capabilities  
   - Secure sandboxed environment for AI agents  
 
-- [Self-Operating Computer](https://github.com/OthersideAI/self-operating-computer)  
+- [Self-Operating Computer](https://github.com/OthersideAI/self-operating-computer) (Nov. 2023) 
+  - The first Computer Use framework created
   - Computer control framework  
-  - Vision-based automation  
+  - Vision-based automation
 
 - [Skyvern](https://github.com/skyvern-ai/skyvern)  
   - AI web agent framework
