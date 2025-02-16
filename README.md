@@ -39,6 +39,7 @@ A curated list of resources about AI agents for Computer Use, including research
 - [Anthropic | Introducing computer use, a new Claude 3.5 Sonnet, and Claude 3.5 Haiku](https://www.anthropic.com/news/3-5-models-and-computer-use)
 - [Bill Gates | AI is about to completely change how you use computers](https://www.gatesnotes.com/AI-agents)
 - [Ethan Mollick | When you give a Claude a mouse](https://www.oneusefulthing.org/p/when-you-give-a-claude-a-mouse)
+- [OpenAI | Introducing Operator: A research preview of an agent that can use its own browser to perform tasks for you](https://openai.com/index/introducing-operator)
 
 ## Papers
 
@@ -46,6 +47,9 @@ A curated list of resources about AI agents for Computer Use, including research
 <summary><b>Surveys</b></summary>
 
 ### Surveys
+
+- [AI Agents for Computer Use: A Review of Instruction-based Computer Control, GUI Automation, and Operator Assistants](https://arxiv.org/abs/2501.16150) (Jan. 2025)
+  - Comprehensive review establishing taxonomy of computer control agents (CCAs) from environment, interaction, and agent perspectives, analyzing 86 CCAs and 33 datasets
 
 - [GUI Agents: A Survey](https://arxiv.org/abs/2412.13501) (Dec. 2024)
   - General survey of GUI agents
@@ -64,6 +68,10 @@ A curated list of resources about AI agents for Computer Use, including research
 <summary><b>Frameworks & Models</b></summary>
 
 ### Frameworks & Models
+
+- [Reinforcement Learning for Long-Horizon Interactive LLM Agents](https://arxiv.org/abs/2502.01600) (Feb. 2025)
+  - Novel RL approach (LOOP) for training IDAs directly in target environments
+  - 32B parameter agent outperforms OpenAI o1 by 9 percentage points on AppWorld
 
 - [Large Action Models: From Inception to Implementation](https://arxiv.org/abs/2412.10047) (Dec. 2024)
   - Comprehensive framework for developing LAMs that can perform real-world actions beyond language generation
@@ -322,6 +330,16 @@ A curated list of resources about AI agents for Computer Use, including research
   - Evaluation in data science workflows
   - [Code](https://github.com/xlang-ai/Spider2-V)
 
+- [AppWorld: A Controllable World of Apps and People for Benchmarking Interactive Coding Agents](https://arxiv.org/abs/2407.18901) (Jul. 2024)
+  - Comprehensive benchmark with 750 natural tasks across 9 day-to-day apps and 457 APIs
+  - GPT-4o achieves only ~49% on normal tasks and ~30% on challenge tasks
+  - [Code](https://github.com/stonybrooknlp/appworld/)
+
+- [τ-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains](https://arxiv.org/abs/2406.12045) (Jun. 2024)
+  - Novel benchmark for evaluating agent-user interaction and policy compliance
+  - State-of-the-art agents achieve <50% success rate and <25% consistency (pass^8)
+  - [Code](https://github.com/sierra-research/tau-bench)
+
 - [MobileAgentBench: An Efficient and User-Friendly Benchmark for Mobile LLM Agents](https://arxiv.org/abs/2406.08184) (Jun. 2024)
   - Mobile agent evaluation
   - [Code](https://github.com/MobileAgentBench/mobile-agent-bench)
@@ -392,6 +410,9 @@ A curated list of resources about AI agents for Computer Use, including research
 - [Computer Use OOTB](https://github.com/showlab/computer_use_ootb)  
   - Ready-to-use implementation  
   - Comprehensive toolset  
+
+- [Cua](https://github.com/trycua)
+  - Computer Use Interface & Agent
 
 - [Cybergod](https://github.com/james4ever0/agi_computer_control)  
   - Advanced computer control  
@@ -471,6 +492,9 @@ A curated list of resources about AI agents for Computer Use, including research
 <summary><b>Environment & Sandbox</b></summary>
 
 ### Environment & Sandbox
+
+- [Cua](https://github.com/trycua)
+  - macOS/Linux Sandbox on Apple Silicon
 
 - [dockur/windows](https://github.com/dockur/windows)
   - Windows inside a Docker container
