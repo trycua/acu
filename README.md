@@ -263,6 +263,9 @@ A curated list of resources about AI agents for Computer Use, including research
 
 ### Dataset
 
+- [Explorer: Scaling Exploration-driven Web Trajectory Synthesis for Multimodal Web Agents] (https://arxiv.org/pdf/2502.11357) (Feb. 2025)
+  - Scalable multi-agent pipeline that leverages exploration for diverse web agent trajectory synthesis.
+
 - [OS-Genesis: Automating GUI Agent Trajectory Construction via Reverse Task Synthesis](https://arxiv.org/abs/2412.19723) (Dec. 2024)
   - Novel interaction-driven approach for automated GUI trajectory synthesis
   - Introduces reverse task synthesis and trajectory reward model
