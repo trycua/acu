@@ -471,7 +471,12 @@ A curated list of resources about AI agents for Computer Use, including research
 
 - [WebMarker](https://github.com/reidbarber/webmarker)  
   - Web page annotation tool  
-  - Vision-language model support  
+  - Vision-language model support
+
+- [Upsonic](https://github.com/upsonic/upsonic)  
+  - Reliable agent framework that support MCP 
+  - Integrated Browser Use and Computer Use
+ 
 
 <br/>
 </details>
