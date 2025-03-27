@@ -263,7 +263,7 @@ A curated list of resources about AI agents for Computer Use, including research
 
 ### Dataset
 
-- [Explorer: Scaling Exploration-driven Web Trajectory Synthesis for Multimodal Web Agents] (https://arxiv.org/pdf/2502.11357) (Feb. 2025)
+- [Explorer: Scaling Exploration-driven Web Trajectory Synthesis for Multimodal Web Agents](https://arxiv.org/pdf/2502.11357) (Feb. 2025)
   - Scalable multi-agent pipeline that leverages exploration for diverse web agent trajectory synthesis.
 
 - [OS-Genesis: Automating GUI Agent Trajectory Construction via Reverse Task Synthesis](https://arxiv.org/abs/2412.19723) (Dec. 2024)
@@ -279,6 +279,9 @@ A curated list of resources about AI agents for Computer Use, including research
 
 - [Synatra: Turning Indirect Knowledge into Direct Demonstrations for Digital Agents at Scale](https://arxiv.org/abs/2409.15637) (Sep. 2024)
   - Scalable demonstration generation
+
+- [UiPad: UI Parsing and Accessibility Dataset](https://huggingface.co/datasets/MacPaw/uipad) (Sep. 2024)
+  - MacOS desktop UI dataset with accessibility trees and evaluation questions
 
 - [Multi-Turn Mind2Web: On the Multi-turn Instruction Following](https://arxiv.org/pdf/2402.15057) (Feb. 2024)
   - Multi-turn instruction dataset for web agents
