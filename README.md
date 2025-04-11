@@ -439,6 +439,13 @@ A curated list of resources about AI agents for Computer Use, including research
   - MacOS-specific tools  
   - Anthropic integration  
 
+- [Mastra](https://github.com/mastra-ai/mastra)
+  - Workflows
+  - Agents
+  - RAG
+  - Integrations
+  - Evals
+
 - [NatBot](https://github.com/nat/natbot)  
   - Browser automation  
   - GPT-4 Vision integration  
