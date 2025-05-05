@@ -441,7 +441,11 @@ A curated list of resources about AI agents for Computer Use, including research
 
 - [NatBot](https://github.com/nat/natbot)  
   - Browser automation  
-  - GPT-4 Vision integration  
+  - GPT-4 Vision integration
+ 
+- [Notte Browser Using Agent](https://github.com/nottelabs/notte)  
+  - Full-stack web AI agents framework (agents, automations, cloud browser sessions)
+  - Notte turns websites into structured, navigable maps described in natural language
 
 - [OpenAdapt](https://github.com/OpenAdaptAI/OpenAdapt)  
   - AI-First Process Automation  
