@@ -423,6 +423,11 @@ A curated list of resources about AI agents for Computer Use, including research
 - [Cybergod](https://github.com/james4ever0/agi_computer_control)  
   - Advanced computer control  
 
+- [GACUA](https://github.com/openmule/gacua)
+  - Enhances Google Gemini for grounding, completely **free** to use
+  - Offers granular, human-in-the-loop control
+  - Supports remote control from another device
+
 - [Grunty](https://github.com/suitedaces/computer-agent)  
   - Computer control agent  
   - Task automation focus
