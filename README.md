@@ -455,9 +455,13 @@ A curated list of resources about AI agents for Computer Use, including research
   - Open-source UI interaction framework  
   - Cross-platform support  
 
-- [OpenInterpreter](https://github.com/OpenInterpreter/open-interpreter)  
-  - General-purpose computer control framework  
-  - Python-based, extensible architecture  
+- [OpenInterpreter](https://github.com/OpenInterpreter/open-interpreter)
+  - General-purpose computer control framework
+  - Python-based, extensible architecture
+
+- [Openwork](https://github.com/accomplish-ai/openwork)
+  - MIT-licensed, open alternative to Anthropic's Cowork
+  - Supports multiple LLM providers for launching computer-use agents to automate browser workflows
 
 - [Open Source Computer Use by E2B](https://github.com/e2b-dev/secure-computer-use/tree/os-computer-use)  
   - Open-source implementation of computer control capabilities  
