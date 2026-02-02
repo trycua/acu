@@ -536,6 +536,10 @@ A curated list of resources about AI agents for Computer Use, including research
   - Cross-platform GUI automation
   - Python-based control library
 
+- [HyperAgency](https://github.com/vuics/h9y)
+  - Agentic AI operating system (h9y.ai)
+  - Create and deploy BrowserUse Agent for web tasks in seconds
+
 <br/>
 </details>
 
