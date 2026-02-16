@@ -371,6 +371,8 @@ A curated list of resources about AI agents for Computer Use, including research
 
 ### Safety
 
+- [Orchard Kit](https://github.com/OrchardHarmonics/orchard-kit) — Alignment, safety & cognitive architecture for autonomous AI agents. Membrane security, epistemic tagger, self-audit, beacon, cognitive architecture (The Loom), collective cognition (The Choir). Zero dependencies.
+
 - [Attacking Vision-Language Computer Agents via Pop-ups](https://arxiv.org/abs/2411.02391) (Nov. 2024)
   - Security analysis of computer agents
   - [Code](https://github.com/SALT-NLP/PopupAttack)
