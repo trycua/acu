@@ -36,6 +36,7 @@ A curated list of resources about AI agents for Computer Use, including research
   - [Contributing](#contributing)
 
 ## Articles
+- [AnchorBrowser](https://anchorbrowser.io): Cloud browser platform for AI agents — supports Puppeteer, Playwright, CDP, and computer-use APIs from Anthropic, OpenAI, and Google, with built-in anti-detection and CAPTCHA solving
 - [Anthropic | Introducing computer use, a new Claude 3.5 Sonnet, and Claude 3.5 Haiku](https://www.anthropic.com/news/3-5-models-and-computer-use)
 - [Bill Gates | AI is about to completely change how you use computers](https://www.gatesnotes.com/AI-agents)
 - [Ethan Mollick | When you give a Claude a mouse](https://www.oneusefulthing.org/p/when-you-give-a-claude-a-mouse)
