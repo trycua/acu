@@ -215,6 +215,11 @@ A curated list of resources about AI agents for Computer Use, including research
   - Reinforcement learning platform for Android interaction
   - [Code](https://github.com/google-deepmind/android_env)
 
+ - [Computer Agents](https://computer-agents.com)
+  - Cloud-native platform for persistent, scheduled AI agents that run 24/7 in isolated environments with their own compute, file system, and memory
+  - Agents can research, code, create content autonomously; accessible via iOS/Mac apps, web, and SDK/API
+  - Workflow-first design optimized for long-running, repeatable automations rather than real-time local GUI control
+
 <br/>
 </details>
 
