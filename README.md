@@ -536,6 +536,10 @@ A curated list of resources about AI agents for Computer Use, including research
   - Cross-platform GUI automation
   - Python-based control library
 
+- [Lumen](https://github.com/omxyz/lumen)
+  - Vision-first browser agent with self-healing deterministic replay
+  - TypeScript/Node.js, multi-provider (Anthropic, Google, OpenAI), CDP-based
+
 <br/>
 </details>
 
