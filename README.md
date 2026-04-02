@@ -385,6 +385,7 @@ A curated list of resources about AI agents for Computer Use, including research
 </details>
 
 ## Projects
+- [skill-taxonomy](https://github.com/SeeleAI/skill-taxonomy) - Structured taxonomy for AI agent skills: discovery, classification and routing across multi-agent workflows.
 
 ### Open Source
 
