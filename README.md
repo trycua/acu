@@ -214,6 +214,7 @@ A curated list of resources about AI agents for Computer Use, including research
 - [AndroidEnv: A Reinforcement Learning Platform for Android](https://arxiv.org/abs/2105.13231) (May 2021)
   - Reinforcement learning platform for Android interaction
   - [Code](https://github.com/google-deepmind/android_env)
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 AI agent system prompts for Claude Code multi-agent orchestration with automated task delegation, security auditing, and quality verification. MIT licensed.
 
 <br/>
 </details>
