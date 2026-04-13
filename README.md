@@ -568,6 +568,7 @@ We welcome and encourage contributions from the community! Here's how you can he
 - **Fix errors**: Help us correct any mistakes in existing entries
 - **Improve organization**: Suggest better ways to structure the information
 - **Update content**: Keep entries up-to-date with latest developments
+- [CCHub](https://github.com/Moresl/cchub) - A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profiles, agent skills, CLAUDE.md, hooks, and workflow templates from a single Tauri app (Windows / macOS / Linux).
 
 To contribute:
 1. Fork the repository
