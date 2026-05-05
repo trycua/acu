@@ -13,6 +13,7 @@
 > An AI Agent for Computer Use is an autonomous program that can **reason** about tasks, **plan** sequences of actions, and **act** within the domain of a computer or mobile device in the form of clicks, keystrokes, other computer events, command-line operations and internal/external API calls. These agents combine perception, decision-making, and control capabilities to interact with digital interfaces and accomplish user-specified goals independently.
 
 A curated list of resources about AI agents for Computer Use, including research papers, projects, frameworks, and tools.
+- [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor) - Real-time monitoring dashboard for OpenClaw AI agents — tracks Gateway health, token usage, and message trends
 
 ## Table of Contents
 
