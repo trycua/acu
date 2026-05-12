@@ -528,6 +528,10 @@ A curated list of resources about AI agents for Computer Use, including research
 <summary><b>Automation</b></summary>
 
 ### Automation
+- [BrowserTrace](https://github.com/aaronlab/browsertrace)
+  - Local-first trace viewer for failed browser-agent and computer-use runs
+  - Records screenshots, URLs, actions, model I/O, status, errors, and public-safe HTML exports
+
 - [nut.js](https://github.com/nut-tree/nut.js)
   - Native UI automation
   - JavaScript/TypeScript implementation
