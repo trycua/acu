@@ -33,6 +33,7 @@ A curated list of resources about AI agents for Computer Use, including research
       - [Automation](#automation)
     - [Commercial](#commercial)
       - [Frameworks & Models](#frameworks--models-2)
+      - [Safety & Guardrails](#safety--guardrails)
   - [Contributing](#contributing)
 
 ## Articles
@@ -556,6 +557,18 @@ A curated list of resources about AI agents for Computer Use, including research
 - [Runner H](https://www.hcompany.ai/)
   - Advanced AI agent for real-world applications.
   - Scores 67% on WebVoyager
+
+<br/>
+</details>
+
+<details open>
+<summary><b>Safety & Guardrails</b></summary>
+
+### Safety & Guardrails
+
+- [APort](https://aport.io)
+  - Agent identity and policy enforcement for AI-agent tool calls
+  - Includes [integration examples](https://github.com/aporthq/aport-integrations) for adding pre-action authorization before agents interact with tools, APIs, or computer-use environments
 
 <br/>
 </details>
