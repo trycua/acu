@@ -319,6 +319,13 @@ A curated list of resources about AI agents for Computer Use, including research
 
 ### Benchmark
 
+- [ClawBench: Can AI Agents Complete Everyday Online Tasks?](https://arxiv.org/abs/2604.08523) (May. 2026)
+  - Live-website browser-agent benchmark; 283 tasks (V1 153 + V2 130) across 163 live platforms (15 life categories)
+  - Two-stage scoring: HTTP-request interception at per-task URL/method schema (Stage 1) + LLM judge on intercepted payload (Stage 2)
+  - [Website](https://claw-bench.com)
+  - [Code](https://github.com/reacher-z/ClawBench)
+  - [Dataset](https://huggingface.co/datasets/NAIL-Group/ClawBench)
+
 - [A3: Android Agent Arena for Mobile GUI Agents](https://arxiv.org/abs/2501.01149) (Jan. 2025)
   - Novel evaluation platform with 201 tasks across 21 widely used third-party apps
   - [Website](https://yuxiangchai.github.io/Android-Agent-Arena/)
