@@ -380,6 +380,7 @@ A curated list of resources about AI agents for Computer Use, including research
 
 - [GuardAgent: Safeguard LLM Agent by a Guard Agent via Knowledge-Enabled Reasoning](https://arxiv.org/abs/2406.09187) (Jun. 2024)
   - Safety mechanisms for agents
+- [APort Agent Guardrails](https://aport.io) - Pre-action authorization guardrails for AI agents and MCP/tool-use workflows.
 
 <br/>
 </details>
