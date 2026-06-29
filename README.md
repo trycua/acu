@@ -518,6 +518,10 @@ A curated list of resources about AI agents for Computer Use, including research
   - Secure desktop environment
   - Agent testing platform
 
+- [HUD](https://github.com/hud-evals/hud-python)
+  - Open-source SDK for building computer-use and browser environments
+  - Run agents as evals and RL training with task-based verifiable rewards
+
 - [qemus/qemu-docker](https://github.com/qemus/qemu-docker)
   - Docker container for running virtual machines using QEMU
 
