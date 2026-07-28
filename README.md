@@ -319,6 +319,11 @@ A curated list of resources about AI agents for Computer Use, including research
 
 ### Benchmark
 
+- [ClawBench: A Benchmark for Evaluating AI Web Agents on Real-World Tasks](https://arxiv.org/abs/2604.08523) (Apr. 2026)
+  - Live-web benchmark with 283 tasks across 163 websites, isolated browser execution, and replayable action/traffic/agent-message traces
+  - [Code](https://github.com/TIGER-AI-Lab/ClawBench)
+  - [Website](https://claw-bench.com)
+
 - [A3: Android Agent Arena for Mobile GUI Agents](https://arxiv.org/abs/2501.01149) (Jan. 2025)
   - Novel evaluation platform with 201 tasks across 21 widely used third-party apps
   - [Website](https://yuxiangchai.github.io/Android-Agent-Arena/)
