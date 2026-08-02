@@ -559,6 +559,7 @@ A curated list of resources about AI agents for Computer Use, including research
 
 <br/>
 </details>
+- [Pixel Pet](https://letmethink.cc/app/pixel-pet/) - Turn a personality description into a deterministic ASCII pixel companion in the browser.
 
 ## Contributing
 
