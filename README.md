@@ -69,6 +69,11 @@ A curated list of resources about AI agents for Computer Use, including research
 
 ### Frameworks & Models
 
+- [Ouroboros: A Self-Developing Frontier Coding Agent with Reviewed Core Evolution](https://arxiv.org/abs/2608.08311) (Aug. 2026)
+  - Self-developing agent harness whose tools, prompts, context assembly, and core code improve through reviewed commits
+  - Reports 90.69% on OSWorld-Verified with an Opus 5 system snapshot
+  - [Code](https://github.com/razzant/ouroboros)
+
 - [Reinforcement Learning for Long-Horizon Interactive LLM Agents](https://arxiv.org/abs/2502.01600) (Feb. 2025)
   - Novel RL approach (LOOP) for training IDAs directly in target environments
   - 32B parameter agent outperforms OpenAI o1 by 9 percentage points on AppWorld
