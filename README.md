@@ -546,6 +546,10 @@ A curated list of resources about AI agents for Computer Use, including research
 
 ### Frameworks & Models
 
+- [Agent QA](https://github.com/vostride/agent-qa)
+  - Source-available agent for natural-language regression testing across web, Android, and iOS applications
+  - Uses deterministic checks, persistent test memory, self-healing flows, and reviewable run evidence
+
 - [Anthropic Claude Computer Use](https://www.anthropic.com/news/3-5-models-and-computer-use)
   - Commercial computer control capability
   - Integrated with Claude 3.5 models
