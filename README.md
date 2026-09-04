@@ -511,6 +511,9 @@ A curated list of resources about AI agents for Computer Use, including research
 - [Cua](https://github.com/trycua)
   - macOS/Linux Sandbox on Apple Silicon
 
+- [Superagent](https://github.com/pungme/superagent-desktop)
+  - Gives Claude Code and Codex a real macOS environment: a browser, an iOS Simulator, and a phone companion app
+
 - [dockur/windows](https://github.com/dockur/windows)
   - Windows inside a Docker container
 
