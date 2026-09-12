@@ -69,6 +69,7 @@ A curated list of resources about AI agents for Computer Use, including research
 
 ### Frameworks & Models
 
+- [Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril): Open-source agentic software factory with an amazing UI that handles parallel Git worktrees for you, complete with programmatic verifications and fast review loops
 - [Reinforcement Learning for Long-Horizon Interactive LLM Agents](https://arxiv.org/abs/2502.01600) (Feb. 2025)
   - Novel RL approach (LOOP) for training IDAs directly in target environments
   - 32B parameter agent outperforms OpenAI o1 by 9 percentage points on AppWorld
