@@ -557,6 +557,12 @@ A curated list of resources about AI agents for Computer Use, including research
   - Advanced AI agent for real-world applications.
   - Scores 67% on WebVoyager
 
+- [Yappy](https://yappy.biz/computer-use-agent-for-mac/)
+  - Voice-triggered computer-use agent for macOS; reads the window through the
+    accessibility tree and the browser page rather than screenshots, so it acts
+    on a background window without taking the screen.
+  - Optional per-step decision lane on TypeSafe's Jev System One model
+
 <br/>
 </details>
 
