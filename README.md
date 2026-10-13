@@ -532,6 +532,10 @@ A curated list of resources about AI agents for Computer Use, including research
   - Native UI automation
   - JavaScript/TypeScript implementation
 
+- [Oh My Phone Use](https://github.com/getGate/oh-my-phone-use)
+  - MCP tools for AI agents to view and control a real iPhone or iPad through an ESP32 Bluetooth accessory, without jailbreaking.
+  - Requires a Mac; phone calls with speech and local transcription use a separate HFP firmware build.
+
 - [PyAutoGUI](https://github.com/asweigart/pyautogui)
   - Cross-platform GUI automation
   - Python-based control library
