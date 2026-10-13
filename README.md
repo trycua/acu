@@ -536,6 +536,10 @@ A curated list of resources about AI agents for Computer Use, including research
   - Cross-platform GUI automation
   - Python-based control library
 
+- [ESP32 iPhone Agent](https://github.com/onehumanbeing/esp32-iphone-agent)
+  - Vision-model agent that operates a real iPhone (AirPlay mirroring + ESP32-S3 as USB mouse/keyboard)
+  - Python server, works with any OpenAI-compatible vision model
+
 <br/>
 </details>
 
