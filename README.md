@@ -536,6 +536,10 @@ A curated list of resources about AI agents for Computer Use, including research
   - Cross-platform GUI automation
   - Python-based control library
 
+- [vco](https://github.com/lo2589/vco)
+  - Shell and MCP clicker for LLMs: locate and click controls on screen or in web pages
+  - OCR-first with vision-model fallback and grid zoom; the autonomous loop is dry-run unless --execute
+
 <br/>
 </details>
 
