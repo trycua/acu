@@ -528,6 +528,10 @@ A curated list of resources about AI agents for Computer Use, including research
 <summary><b>Automation</b></summary>
 
 ### Automation
+- [AgentGo](https://github.com/Moha2005269/agentgo)
+  - Chromium browser built for AI agents, driven over MCP (Windows)
+  - Compact page outlines, diff-only replies, real mouse and keyboard input, human approval for payments
+
 - [nut.js](https://github.com/nut-tree/nut.js)
   - Native UI automation
   - JavaScript/TypeScript implementation
