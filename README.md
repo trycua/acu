@@ -536,6 +536,10 @@ A curated list of resources about AI agents for Computer Use, including research
   - Cross-platform GUI automation
   - Python-based control library
 
+- [No Stairs Please MCP](https://nostairsplease.com/mcp)
+  - Remote MCP server for [No Stairs Please](https://nostairsplease.com/) venue search
+  - Structured small-stage capacities and booking contacts across US/DC/BC
+
 <br/>
 </details>
 
