@@ -536,6 +536,10 @@ A curated list of resources about AI agents for Computer Use, including research
   - Cross-platform GUI automation
   - Python-based control library
 
+- [awesome-agent-phone-use](https://github.com/pichnett/awesome-agent-phone-use)
+  - A curated list of ways for AI agents to operate real phones and mobile apps: app APIs, device control, device clouds, emulators, and hardware.
+  - Maintained by the Pichnett team, who are also listed in it under Hardware.
+
 <br/>
 </details>
 
