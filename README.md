@@ -448,8 +448,8 @@ A curated list of resources about AI agents for Computer Use, including research
   - Notte turns websites into structured, navigable maps described in natural language
 
 - [OpenAdapt](https://github.com/OpenAdaptAI/OpenAdapt)  
-  - AI-First Process Automation  
-  - Multimodal model integration  
+  - Verified desktop and browser execution engine (`openadapt-flow`) with independent post-action read-back  
+  - Emits signed Ed25519 DSSE receipts and halts on drift instead of guessing ([benchmarks & proof](https://openadapt.ai/proof))  
 
 - [OpenInterface](https://github.com/AmberSahdev/Open-Interface/)  
   - Open-source UI interaction framework  
