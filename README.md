@@ -485,6 +485,10 @@ A curated list of resources about AI agents for Computer Use, including research
   - Integrated Browser Use and Computer Use
  
 
+- [53ON Harness](https://github.com/53on/53on-harness)
+  - Windows desktop harness: the agent sees the screen, uses the mouse, the keyboard and a browser, and keeps a memory of its own across sessions
+  - Runs with the model you bring (API key, subscription or a local model through Ollama); MIT shell
+
 <br/>
 </details>
 
