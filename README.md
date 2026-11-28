@@ -528,6 +528,10 @@ A curated list of resources about AI agents for Computer Use, including research
 <summary><b>Automation</b></summary>
 
 ### Automation
+- [Asctrl](https://github.com/yalosaws/Asctrl)
+  - MCP server that lets any AI agent see and operate a Windows PC, locally or remotely through a self-hosted relay
+  - Runs whole plans and programs on the PC instead of one model call per click
+
 - [nut.js](https://github.com/nut-tree/nut.js)
   - Native UI automation
   - JavaScript/TypeScript implementation
